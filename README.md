@@ -1,0 +1,2 @@
+# SwiftUI_tourismApp
+SwiftUIのチュートリアルアプリを練習として少しカスタマイズした観光地アプリ
